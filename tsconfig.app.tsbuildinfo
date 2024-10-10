@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/header.tsx","./src/components/layout.tsx","./src/components/protectedroute.tsx","./src/hooks/useconsent.tsx","./src/pages/about.tsx","./src/pages/consentpage.tsx","./src/pages/home.tsx"],"version":"5.6.3"}
